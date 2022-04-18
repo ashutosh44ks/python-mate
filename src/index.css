@@ -1,7 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
 body {
   height: 100vh;
   background-color: gainsboro;
   overflow: hidden;
+  font-family: "Roboto", sans-serif;
 }
 .main {
   height: 100vh;
@@ -21,16 +24,31 @@ body {
   background-color: white;
   margin: 1%;
   border-radius: 2%;
-  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+h2 {
+  margin: 0;
 }
 form {
   width: 100%;
 }
-form > div{
+form > div {
   margin: 5% 0;
 }
-form > div> label {
-  margin-right: 5%;
+form > div > label {
+  width: 40%;
+  display: inline-block;
+}
+form > div > input {
+  width: 55%;
+}
+form > input {
+  width: 100%;
+  background: deepskyblue;
+  color: white;
+  border-radius: 15px 15px 15px 15px;
+  border: none;
+  padding: 2%;
 }
 .msg {
   margin-top: 3%;

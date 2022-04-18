@@ -12,6 +12,7 @@ const SignUpContainer = ({ data, setData }) => {
   }, [su]);
   return (
     <div className="su-container">
+      <h2>Sign Up</h2>
       <form
         autoComplete="on"
         onSubmit={(e) => {
