@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/python-mate/static/css/main.5a48bfc5.css",
+    "main.js": "/python-mate/static/js/main.7a5ae67b.js",
+    "static/js/787.9897cd25.chunk.js": "/python-mate/static/js/787.9897cd25.chunk.js",
+    "index.html": "/python-mate/index.html",
+    "main.5a48bfc5.css.map": "/python-mate/static/css/main.5a48bfc5.css.map",
+    "main.7a5ae67b.js.map": "/python-mate/static/js/main.7a5ae67b.js.map",
+    "787.9897cd25.chunk.js.map": "/python-mate/static/js/787.9897cd25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a48bfc5.css",
+    "static/js/main.7a5ae67b.js"
+  ]
+}

@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Roboto&display=swap);body{background-color:#dcdcdc;font-family:Roboto,sans-serif;height:100vh;overflow:hidden}.main{height:100vh}.main,.si-container,.su-container{align-items:center;display:flex;flex-direction:column;justify-content:center}.si-container,.su-container{background-color:#fff;border-radius:2%;box-shadow:0 4px 8px 0 rgba(0,0,0,.2);margin:1%;padding:2% 4%;width:40vw}form{width:100%}form>div{margin:5% 0}form>div>label{margin-right:5%}.msg{margin-top:3%}
+/*# sourceMappingURL=main.5a48bfc5.css.map*/
